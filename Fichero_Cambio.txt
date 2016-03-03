@@ -1,15 +1,28 @@
 
 
+<<<<<<< HEAD
 //Este fichero se cambiará para realizar las posibles practicas
+=======
+//Este fichero se cambiarÃ¡ para realizar las posibles practicas
+>>>>>>> 343e95bae0605bef50565c529adab0ee14cc570d
 
 public void say_hello(String entrada){
 	printf("El programa "+entrada+" te dice hola");
 }
 
+<<<<<<< HEAD
 public int otro_cambio_ha_realizar(int entrada){
 	return entrada;
+=======
+public void cambios_realizados(){
+	printf("Se han realizado cambios");
+>>>>>>> 343e95bae0605bef50565c529adab0ee14cc570d
 }
 
 void main (){
 	say_hello("Juan");
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 343e95bae0605bef50565c529adab0ee14cc570d
