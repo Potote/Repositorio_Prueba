@@ -6,6 +6,10 @@ public void say_hello(String entrada){
 	printf("El programa "+entrada+" te dice hola");
 }
 
+public void cambios_realizados(){
+	printf("Se han realizado cambios");
+}
+
 void main (){
 	say_hello("Juan");
 }
