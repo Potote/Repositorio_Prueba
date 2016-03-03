@@ -6,8 +6,13 @@ public void say_hello(String entrada){
 	printf("El programa "+entrada+" te dice hola");
 }
 
+<<<<<<< HEAD
 public int otro_cambio_ha_realizar(int entrada){
 	return entrada;
+=======
+public void cambios_realizados(){
+	printf("Se han realizado cambios");
+>>>>>>> 381ee80cc3397131e119c8ee810582d29fe3bf19
 }
 
 void main (){
